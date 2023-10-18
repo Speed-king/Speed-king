@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Speed-king.
-- 👀 I’m interested in gaming, programming and go karting. (As a Hobby)
-- 🌱 I’m currently learning C# in my school.
+- I’m interested in gaming, programming and go karting. (As a Hobby)
+- I’m currently learning C# in my school.
 - I have already made a website completely by myself. 
 - I'm good with HTML and CSS.
